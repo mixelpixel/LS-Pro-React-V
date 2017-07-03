@@ -6,7 +6,7 @@
 
   * match
   * match.params & route parameters
-  * hoisting
+  * hoisting - the order by which functions, variables and other elements are compiled from scripts, allowing that a function (as opposed to a function expression) can be called in a script before it is declared.
 
 
 2. Fork and clone this repo.
@@ -26,4 +26,4 @@
 #### Congratulations on finishing Homework #5!
 
 For more information about our part-time and full-time courses visit: https://www.lambdaschool.com
-LambdaSchool's full-time class is now tuition guaranteed.  
+LambdaSchool's full-time class is now tuition guaranteed.
